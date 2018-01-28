@@ -702,7 +702,7 @@ button.round, .button.round {
 }
 button.stroke, .button.stroke {
 	background: transparent !important;
-	border: 3px solid transparent;
+	border: 4px solid transparent;
 	line-height: 4.4rem;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
@@ -849,7 +849,7 @@ header .logo a {
 }
 .sticky {
 	position: fixed;
-	background: #14171c;
+	background: #424242;
 	top: 0;
 }
 .sticky .logo a {
@@ -964,11 +964,11 @@ a.menu-toggle {
 /* navigation links */
 .main-navigation li a {
 	display: block;
-	padding: 18px 7px;
+	padding: 20px 7px;
 	line-height: 30px;
 	text-decoration: none;
 	text-align: left;
-	color: #98999a;
+	color: #b4b7b9;
 	position: relative;
 	-moz-transition: color 0.3s ease-in-out;
 	-o-transition: color 0.3s ease-in-out;
@@ -1203,14 +1203,14 @@ a.menu-toggle {
 	outline: none;
 }
 .intro-content .button {
-	border-color: #FFFFFF;
-	color: #FFFFFF;
+	border-color: #00d7fc;
+	color: #00d7fc;
 	height: 6.6rem;
 	line-height: 6rem;
 	padding: 0 3rem !important;
 	margin-top: 1.8rem;
 	font-family: "raleway-heavy", sans-serif;
-	font-size: 1.4rem;
+	font-size: 1.8rem;
 	text-transform: uppercase;
 	letter-spacing: .4rem;
 }
@@ -2166,7 +2166,7 @@ footer {
 	color: #465166;
 }
 footer a, footer a:visited {
-	color: #05bca9;
+	color: #39414d;
 }
 footer a:hover, footer a:focus {
 	color: #FFFFFF;
@@ -2203,9 +2203,9 @@ footer ul li {
 }
 .footer-main .footer-logo {
 	width: 162px;
-	height: 39px;
+	height: 90px;
 	background: url("../images/footer-logo.png") no-repeat center;
-	background-size: 162px 39px;
+	background-size: 162px 90px;
 	margin: -.6rem 0 2.1rem -.3rem;
 	display: block;
 }
